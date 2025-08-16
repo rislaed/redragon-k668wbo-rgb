@@ -1,0 +1,13 @@
+;»¨¿ª¸»¹ó
+o
+9,0,i,k,l,p
+f8,8,u,j,m,<,>,;,[,-
+f7,f9,7,y,h,n,space,ralt,?,',],=
+f6,f10,6,t,g,b,app,rshift,k56,enter,|,back,fn
+f5,f11,f12,5,r,f,v,rctrl,left,ins,del
+f4,print,4,e,d,c,up,down,home,end
+f3,scroll,3,w,s,x,right,pgup,pgdn
+f2,2,q,a,z,alt,numlock,num7,num4,num1,num0,pause,mute
+f1,1,caps,shift,win,num*,num/,num.,num8,num9,num5,num2,k45,cal
+esc,~,tab,ctrl,num+,num-,numenter,num3,num6,sf1,sf2
+
