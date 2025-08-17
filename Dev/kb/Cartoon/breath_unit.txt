@@ -1,5 +1,5 @@
-;每一行是一个按键单元，文件必须以ansi格式保存，按键名称不区分大小写
-;若只有某些行指定了颜色，则驱动会给未指定颜色的单元自动计算过渡色
+;每一锟斤拷锟斤拷一锟斤拷锟斤拷锟斤拷锟斤拷元锟斤拷锟侥硷拷锟斤拷锟斤拷锟斤拷ansi锟斤拷式锟斤拷锟芥，锟斤拷锟斤拷锟斤拷锟狡诧拷锟斤拷锟街达拷小写
+;锟斤拷只锟斤拷某些锟斤拷指锟斤拷锟斤拷锟斤拷色锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟轿粗革拷锟斤拷锟缴拷牡锟皆拷远锟斤拷锟斤拷锟斤拷锟斤拷色
 esc,~,tab,caps,shift,ctrl,win,k45:0,0,255
 1,Q,A,Z,alt
 f1,2,W,S,X
@@ -12,7 +12,7 @@ f6,8,I,K,<
 f7,9,O,L,>,ralt:0,255,0
 f8,0,P,;,?,fn
 f9,-,[,',app,f10,=,]
-f11,f12,back,|,enter,rshift,k56,rctrl
+f11,f12,back,|,enter,rshift,rctrl
 print,ins,del,left
 scroll,home,end,up,down
 pause,pgup,pgdn,right

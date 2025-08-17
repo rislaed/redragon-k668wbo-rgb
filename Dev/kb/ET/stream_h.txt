@@ -10,7 +10,7 @@ f6,8,I,K,<
 f7,9,O,L,>,ralt
 f8,0,P,;,?,fn
 f9,-,[,',app,f10,=,]
-f11,f12,back,|,enter,rshift,k56,rctrl
+f11,f12,back,|,enter,rshift,rctrl
 print,ins,del,left
 scroll,home,end,up,down
 pause,pgup,pgdn,right
